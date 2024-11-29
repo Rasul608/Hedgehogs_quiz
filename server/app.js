@@ -12,9 +12,9 @@ const app = express();
 
 serverConfig(app);
 
-app.use('/api', indexRouter);
+app.use('/api', indexRoutes);
 
 
 app.listen(PORT, () => {
-  console.log(`Example app listening on port ${PORT}`);
+  console.log(`Example app listening on port ${PORT}`)});
 
