@@ -8,7 +8,9 @@ export default defineConfig({
     proxy: {
       '/api': {
         //! по пути на api
-        target: 'http://localhost:3000',
+
+        target: 'http://localhost:3000', //! проксируй на http://localhost:3000'
+
       },
     },
   },

@@ -10,7 +10,7 @@ function Navbar(props) {
       <li><a href="/">К темам</a></li>
       <li><a href="/about">О команде</a></li>
       <li><a href="/Любой рандомный адрес">404</a></li>
-      <li><a href="/contact">Еще кнопка</a></li>
+      <li><a href="/maks">Макс</a></li>
     </ul>
   </nav>
   );
