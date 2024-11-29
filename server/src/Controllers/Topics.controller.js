@@ -3,7 +3,7 @@ const formatResponse = require('../utils/formatResponse')
 
 
 class TopicController{
-static async getAllTopic(req,res){
+static async getAllTopics(req,res){
   try {
     const topics = await TopicsService.getAll()
     if(topics.length===0){
