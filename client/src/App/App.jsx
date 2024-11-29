@@ -3,6 +3,8 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "../Layout/Layout/Layout";
 import HomePage from "../Pages/HomePage/HomePage";
 import NotFoundPage from "../Pages/NotFound/NotFoundPage";
+import QuestionPage from "../Pages/QuestionPage/QuestionPage";
+import Maks from "../Pages/MaksPage/Maks";
 
 function App() {
   const router = createBrowserRouter([
@@ -14,6 +16,14 @@ function App() {
         {
           path: "/",
           element: <HomePage />,
+        },
+        {
+          path: `/question/:id`,
+          element: <QuestionPage />,
+        },
+        {
+          path: `/maks`,
+          element: <Maks />,
         },
       ],
     },
