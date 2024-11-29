@@ -18,7 +18,7 @@ function App() {
           element: <HomePage />,
         },
         {
-          path: `/question/:id`,
+          path: `/topics/:id`,
           element: <QuestionPage />,
         },
         {

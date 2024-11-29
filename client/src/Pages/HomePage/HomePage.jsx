@@ -3,7 +3,7 @@ import TopicsPage from "../TopicsPage/TopicsPage";
 
 export default function HomePage(params) {
   return (
-    <div>
+    <div >
       <TopicsPage />
     </div>
   );
