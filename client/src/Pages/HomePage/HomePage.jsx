@@ -1,11 +1,10 @@
-import React from 'react';
+import React from "react";
+import TopicsPage from "../TopicsPage/TopicsPage";
 
-function HomePage(props) {
+export default function HomePage(params) {
   return (
     <div>
-      sad
+      <TopicsPage />
     </div>
   );
 }
-
-export default HomePage;
