@@ -63,7 +63,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/001-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
@@ -73,7 +73,7 @@ module.exports = {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/002-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
         currentAnswer: 'Это для взрослых 😎',
-        answer1:'Это для собаки',
+        answer1:'Это для собаки 🐕',
         topic_id: 2, 
         createdAt: new Date(),
         updatedAt: new Date()
@@ -81,7 +81,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/003-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
@@ -91,7 +91,7 @@ module.exports = {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/004-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
         currentAnswer: 'Это для взрослых 😎',
-        answer1:'Это для собаки',
+        answer1:'Это для собаки 🐕',
         topic_id: 2, 
         createdAt: new Date(),
         updatedAt: new Date()
@@ -99,7 +99,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/005-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
@@ -108,7 +108,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/009-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
@@ -117,7 +117,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/010-2-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
@@ -126,7 +126,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/014-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
@@ -135,7 +135,7 @@ module.exports = {
       {
         img: 'https://opis-cdn.tinkoffjournal.ru/mercury/013-sexy-pes.jpg',
         question: 'Это игрушка 18+ или товар для собак?',
-        currentAnswer: 'Это для собаки',
+        currentAnswer: 'Это для собаки 🐕',
         answer1:'Это для взрослых 😎',
         topic_id: 2, 
         createdAt: new Date(),
