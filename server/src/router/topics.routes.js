@@ -1,6 +1,5 @@
-const router = require('express').Router()
+const router = require("express").Router();
 
-// router.get('/')
+// router.get('/topics/:id')
 
-
-module.exports = router
+module.exports = router;
