@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+.full-screen-image {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.full-screen-image img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 98%;
+
+  transform: translate(-50%, -48%);
+}
