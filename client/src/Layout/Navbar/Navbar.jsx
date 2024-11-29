@@ -4,7 +4,7 @@ function Navbar(props) {
   return (
     <nav className="navbar">
     <div className="navbar-brand">
-      <a href="/">Имя команды</a>
+      <a href="/">Киборги-мутанты</a>
     </div>
     <ul className="navbar-links">
       <li><a href="/">К темам</a></li>
